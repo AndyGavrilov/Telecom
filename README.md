@@ -16,3 +16,6 @@
 2. Создание моделей
 3. Анализ лучшей модели
 4. Выводы
+
+
+Используемые библиотеки: pandas, sklearn, catboost, seaborn, plotly, matplotlib, tqdm, phik
